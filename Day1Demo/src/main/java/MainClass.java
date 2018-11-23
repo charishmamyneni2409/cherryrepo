@@ -23,5 +23,11 @@ greet();
 	public static void display()
 	{
 		System.out.println("Welcome user!");
+		
+	}
+	public static void request()
+	{
+		System.out.println("Welcome !");
+		
 	}
 }
