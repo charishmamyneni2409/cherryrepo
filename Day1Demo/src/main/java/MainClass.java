@@ -19,5 +19,9 @@ greet();
 	{
 		System.out.println("Welcome user!");
 	}
-
+	
+	public static void display()
+	{
+		System.out.println("Welcome user!");
+	}
 }
