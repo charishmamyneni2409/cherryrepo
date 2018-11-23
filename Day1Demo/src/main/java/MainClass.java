@@ -15,5 +15,9 @@ greet();
 		System.out.println("Welcome Sony!");
 	}
 
+	public static void show()
+	{
+		System.out.println("Welcome user!");
+	}
 
 }
