@@ -21,4 +21,12 @@ public class MainClass {
 	public static void hello() {
 		System.out.println("Hello World!!");
 	}
+
+	public static void display() {
+		System.out.println("Welcome user!");
+	}
+
+	public static void request() {
+		System.out.println("Welcome !");
+	}
 }
